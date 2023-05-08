@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=#a22bff&height=300&section=header&text=welcome%20render&fontSize=90&)
+![header](https://capsule-render.vercel.app/api?type=waving&color=#a22bff&height=500&section=header&text=welcome%20render&fontSize=90&)
 
 ### :👩: 프로그래밍 & 마크업 언어
 <div>
